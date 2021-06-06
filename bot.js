@@ -56,4 +56,4 @@ const sendTweet = () => {
   })
 }
 
-setInterval(sendTweet, 1000 * 60 * 1)
+setInterval(sendTweet, 1000 * 60 * 60)
