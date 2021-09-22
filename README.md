@@ -12,7 +12,7 @@ This is a Twitter Bot that use Twitter API and Imgur's API to collect the data f
 - [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
 
 ## Deployment
-Deployed with [Hueroku](https://heroku.com/).
+Deployed with [Heroku](https://heroku.com/).
 
 ## Live Project/Twitter account
 [Here!](https://twitter.com/Shrekbot6/)
